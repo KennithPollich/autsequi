@@ -1,0 +1,40 @@
+{
+  "name": "autsequi",
+  "version": "1.8.0",
+  "description": "Web3modal's provider layer abstraction for simple implementation of web3 wallet connections",
+  "homepage": "https://github.com/KennithPollich/autsequi.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KennithPollich/autsequi.git"
+  },
+  "keywords": [
+    "web3",
+    "crypto",
+    "quam",
+    "web3modal",
+    "recusandae",
+    "accusantium",
+    "squarelink",
+    "portis",
+    "fortmatic",
+    "illum",
+    "sapiente",
+    "voluptate",
+    "walletlink",
+    "web3modal-ts"
+  ],
+  "author": "AnaisBode",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "devDependencies": {
+    "@types/node": "^14.11.8",
+    "copyfiles": "^2.4.0",
+    "isomorphic-fetch": "^2.2.1",
+    "typescript": "^3.1.3"
+  },
+  "dependencies": {
+    "detect-browser": "^5.1.0",
+    "porroqui": "^1.0.0",
+    "tslib": "^1.10.0"
+  }
+}
